@@ -17,4 +17,4 @@
    <img src="img.png" >
 </p>
 
-Make with ♥ by Wesley Guerra :wave:
+Make with ♥ by Marcelo Cerqueira :wave:
